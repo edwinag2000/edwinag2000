@@ -11,20 +11,21 @@ He realizado proyectos de **análisis, limpieza y extracción de datos**, aplica
 
 En el área de **energías renovables** manejo software de ingeniería para **CFD, CAD y simulaciones mecanicas**, además de conocer la normativa eléctrica, análisis económico-energético, generación de energía y transmisión energética.  
 
-Actualmente me capacito en **ingeniería de datos**, **ciencia de datos**, **financiamiento de proyectos**, y en fundamentos de **inteligencia artificial** aplicada al análisis.  
+Actualmente me capacito en **ingeniería de datos**, **financiamiento de proyectos**, y en fundamentos de **inteligencia artificial** aplicada al análisis.  
 
 ---
 
-## 📂 Proyectos personales
-🌞 **Horas Sol Pico (HSP)**: análisis y estimación de radiación solar en Mérida con datos históricos.  
+# 📂 Proyectos personales
+
+## 🌞 **Horas Sol Pico (HSP)**: análisis y estimación de radiación solar en Mérida con datos históricos.  
 
   ![Irradiancia promedio](multimedia/irradiancia_promedio.png)
 
-🏭 **Residuos peligrosos en plantas petroquímicas**: limpieza y análisis de una base de datos sobre aguas contaminadas.  
+## 🏭 **Residuos peligrosos en plantas petroquímicas**: limpieza y análisis de una base de datos sobre aguas contaminadas.  
 
   ![Generación residuos](multimedia/generacion_residuos.gif)
 
-👉 Busco seguir creando proyectos que aporten valor a mi portafolio y fortalezcan mis conocimientos en datos y energía.  
+## 👉 Busco seguir creando proyectos que aporten valor a mi portafolio y fortalezcan mis conocimientos en datos y energía.  
 
 ## 🌱 Intereses
 - **Datos**: ingeniería de datos, big data, inteligencia artificial  
@@ -37,9 +38,9 @@ Actualmente me capacito en **ingeniería de datos**, **ciencia de datos**, **fin
 - **Otros**: Excel (macros)
 
 ## 📫 Contacto
+
 ✉️ edagmar2000@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/edwin-azahel-aguilar-mart%C3%ADnez-685b41248/)) 
-📱 +52 990 369 4516
+🔗 [https://www.linkedin.com/](https://www.linkedin.com/in/edwin-azahel-aguilar-mart%C3%ADnez-685b41248/]) 
 
   # 📜 Certificados
 
